@@ -10,4 +10,4 @@
 <img alt="github stats" height="167px" src="https://github-readme-stats.vercel.app/api?username=kumaryoya&count_private=true&show_icons=true&show_icons=true&theme=algolia"/>
 <img alt="Top Langs" height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaryoya&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=algolia"/><br>
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img width=710 src="https://github-profile-trophy.vercel.app/?username=kumaryoya&column=8&theme=algolia&no-frame=true"/>
+<img width=705 src="https://github-profile-trophy.vercel.app/?username=kumaryoya&column=8&theme=algolia&no-frame=true"/>
