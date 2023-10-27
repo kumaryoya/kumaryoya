@@ -2,7 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=kumaryoya)
 ![](https://qiita-badge.apiapi.app/s/kumaryoya/contributions.svg)
 ![](https://qiita-badge.apiapi.app/s/kumaryoya/posts.svg)
-![](https://qiita-badge.apiapi.app/s/kumaryoya/followers.svg)<br>
+![](https://qiita-badge.apiapi.app/s/kumaryoya/followers.svg)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fkumaryoya)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kumaryoya)
+<br>
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
