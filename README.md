@@ -1,10 +1,5 @@
 # About RyoyaOkuma
-![](https://komarev.com/ghpvc/?username=kumaryoya)
-![](https://qiita-badge.apiapi.app/s/kumaryoya/contributions.svg)
-![](https://qiita-badge.apiapi.app/s/kumaryoya/posts.svg)
-![](https://qiita-badge.apiapi.app/s/kumaryoya/followers.svg)
-<a href="http://twitter.com/kumaryoya">![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kumaryoya?link=https%3A%2F%2Ftwitter.com%2Fkumaryoya)</a>
-<br>
+![](https://komarev.com/ghpvc/?username=kumaryoya)<br>
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
