@@ -18,3 +18,6 @@ jobs:
           BACKGROUND_FIRST: "#050f2c"
           BACKGROUND_SECOND: "#050f2c"
           LANG: "ja"
+          CARD_WIDTH: "300"
+          README_FILE: "README.md"
+          
