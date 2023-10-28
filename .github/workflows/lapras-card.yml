@@ -13,10 +13,8 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "kumaryoya"
-          ICON_FIRST: "#030E21"
-          ICON_SECOND: "#1688BF"
-          BACKGROUND_FIRST: "#020E27"
-          BACKGROUND_SECOND: "#0E5593"
+          ICON_FIRST: "#05aeff"
+          ICON_SECOND: "#05aeff"
+          BACKGROUND_FIRST: "#050f2c"
+          BACKGROUND_SECOND: "#050f2c"
           LANG: "ja"
-          CARD_WIDTH: "400"
-          UPDATE_TIME: "false"
