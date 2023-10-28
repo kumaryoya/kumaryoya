@@ -3,7 +3,7 @@
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/kumaryoya" target="_blank" rel="noopener noreferrer"><img alt="kumaryoyaのLAPRASでのスコアは次の通りです: エンジニアリング: 3.42 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.21 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.42&b=2.85&i=3.21&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 Last Updated on 10/28/2023, 1:15:17 AM</p>
-<!--END_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card--><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaryoya&theme=algolia"/><br>
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
 [![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/kumaryoya/kumaryoya/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
