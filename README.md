@@ -1,5 +1,4 @@
 # About RyoyaOkuma
-<img height=30 width=200 src="https://komarev.com/ghpvc/?username=kumaryoya"><br>
 <img height=30 width=120 src="https://badgen.org/img/qiita/kumaryoya/followers?style=flat">
 <img height=30 width=120 src="https://badgen.org/img/qiita/kumaryoya/articles?style=flat">
 <img height=30 width=140 src="https://badgen.org/img/qiita/kumaryoya/contributions?style=flat"><br>
